@@ -3,5 +3,11 @@ body{
   background-size: cover;
   min-height: 100vh;
 }
-h1 {text-align: center;}
+h1 {
+  text-align: center;
+  font-family: 'Bungee', cursive  ;
+
+  color:yellowgreen ;
+
+}
 
