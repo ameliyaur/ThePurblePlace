@@ -1,8 +1,20 @@
+
 .body-coin-counter{
-    background-color: blanchedalmond;
+    background-color: rgb(65, 114, 84);
+
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Bungee', cursive;
+    font-size: 50px;
+
+    color:rgb(170, 157, 194) ;
+
 }
 
 .coin-counter{
     font-size: 50px;
-    color: darkslateblue;
+    color: rgb(219, 166, 52);
     text-decoration-line: underline;
+}
