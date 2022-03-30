@@ -1,5 +1,5 @@
 body{
-    background-image: url(background.jpg) ;
+    background-image: url(images/background.jpg) ;
   background-size: cover;
   min-height: 100vh;
 }
@@ -7,12 +7,12 @@ h1 {
   text-align: center;
   font-family: 'Bungee', cursive  ;
 
-  color:yellowgreen ;
+  color:rgb(121, 143, 240) ;
 
 }
 
 i {
-  color:yellowgreen;
+  color:rgb(219, 147, 38);
   width: 100px;
 }
 
