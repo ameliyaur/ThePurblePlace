@@ -1,4 +1,14 @@
 body{
-    background-image: url(images/bakery.png) ;
-  background-size: cover;
-  min-height: 100vh;
+background-image: url(images/bakery\ 2.png) ;
+background-size: cover;
+min-height: 100vh;
+}
+
+
+.bakery-btn{
+    background-image: url(images/btn-bg.png) ;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    padding: 20px;
+    display: inline-block;
+}
