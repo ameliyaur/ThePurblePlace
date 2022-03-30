@@ -6,20 +6,22 @@ body{
 h1 {
   text-align: center;
   font-family: 'Bungee', cursive  ;
+  font-size: 70px;
 
-  color:rgb(121, 143, 240) ;
+  color:rgb(170, 157, 194) ;
 
 }
 
 i {
   color:rgb(219, 147, 38);
   width: 100px;
+ font-size: 30px;
 }
 
 .CASETTA{
   width: 300px;
   position: absolute;
   left: 50%;
-  top: 20%;
+  top: 25%;
 }
 
