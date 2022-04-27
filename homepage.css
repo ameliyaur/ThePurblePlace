@@ -4,7 +4,7 @@ body{
   min-height: 100vh;
 }
 h1 {
-  text-align: right;
+  text-align: center;
   font-family: 'Bungee', cursive  ;
   font-size: 70px;
 
@@ -20,17 +20,17 @@ i {
 }
 
 .bakery{
-  width: 350px;
+  width: 500px;
   position: absolute;
-  left: 70%;
-  top: 10%;
+  top: 25%;
+  left: 19%;
 }
 
 .basketball{
-  width: 350px ;
+  width: 450px ;
   position: absolute;
-  left: 70%;
-  top: 5%;
+  left: 58%;
+  top: 30%;
   
 }
 
@@ -38,6 +38,6 @@ i {
   width: 100%;
 }
 
-.bakery{
+.bakery img{
   width: 100%;
 }
