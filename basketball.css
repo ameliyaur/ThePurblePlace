@@ -1,6 +1,6 @@
 body{
     background-image: url(images/basketball\ game\ 2.png) ;
-    background-size: cover;
+    background-size: contain;
     min-height: 100vh;
     }
     
